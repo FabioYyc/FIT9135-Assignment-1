@@ -1,0 +1,35 @@
+Gary Lee,
+Chapter 2 - Data Center Evolution—Mainframes to the Cloud,
+Editor(s): Gary Lee,
+Cloud Networking,
+Morgan Kaufmann,
+2014,
+Pages 11-35,
+ISBN 9780128007280,
+https://doi.org/10.1016/B978-0-12-800728-0.00002-3.
+(http://www.sciencedirect.com/science/article/pii/B9780128007280000023)
+Keywords: Mainframe; Minicomputers; Servers; ARPANET; PDP-8; PDP-11; Enterprise data centers; LAN; PC; Workstation; Fibre Channel; FCoE; Enterprise networks; Cloud data centers; ODM; OEM; POD; Virtualized data center; Multitenant environment; Virtual machines; WAN; SONET/SDH; Circuit-switched; Packet-switched; IMP; IETF; iSCSI; iWARP; TCP offload; 5-Tuple; MPLS; Q-in-Q; VXLAN; NVGRE; ATM; Token Ring; Token Bus; Ethernet; InfiniBand; ALOHAnet; CSMA/CD; Preamble; CRC; MAC address; VLAN tag; Carrier Ethernet; MEF; PB; PBB; EOAM; PTP; MPLS-TE; Workgroup switch; Security; Private cloud; Public cloud; Hybrid cloud; IaaS; PaaS; SaaS
+
+Gary Lee,
+Chapter 6 - Server Virtualization and Networking,
+Editor(s): Gary Lee,
+Cloud Networking,
+Morgan Kaufmann,
+2014,
+Pages 103-120,
+ISBN 9780128007280,
+https://doi.org/10.1016/B978-0-12-800728-0.00006-0.
+(http://www.sciencedirect.com/science/article/pii/B9780128007280000060)
+Keywords: Virtual machine; VM; SaaS; IaaS; PaaS; vSwitch; Host; Hypervisor; NIC; PCI-Express; Hyper-V; Partitions; vSphere; vCenter; vMotion; Open vSwitch; SR-IOV; vNIC; VMbus; OpenStack; VMDq; PCI-X; SerDes; PCI-SIG; Physical function; Virtual function; MR-IOV; HBA; HCA; EVB; VEPA; VN-Tag; Fabric extender; Controlling bridge; VM migration; RDMA
+
+Gary Lee,
+Chapter 7 - Network Virtualization,
+Editor(s): Gary Lee,
+Cloud Networking,
+Morgan Kaufmann,
+2014,
+Pages 121-137,
+ISBN 9780128007280,
+https://doi.org/10.1016/B978-0-12-800728-0.00007-2.
+(http://www.sciencedirect.com/science/article/pii/B9780128007280000072)
+Keywords: Multitenant; Virtual machines; Tunneling; VLAN tag; Address learning; MAC address; IP address; VLAN; Q-in-Q; MPLS; VN-Tag; VLAN ID; TCP/IP; LER; LSR; VPN; MPLS-TP; VIF; VXLAN; NVGRE; IETF; UDP; VTEP; VNI; GRE; VSID; NVE; Hypervisor; vSwitch; NIC; ToR switch; Load balancing; Hash; ECMP
